@@ -17,5 +17,5 @@
     $idade = 21;
 ?>
 
-<p>O valor da variável $idade é <?= $idade ?> </p> 
+<p>O valor da variável <b>$idade</b> é <?= $idade ?> </p> 
 

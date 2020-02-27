@@ -1,6 +1,6 @@
 <div class="titulo">Exercício 02</div>
 
-<p>Escreva um programa em PHP que solicite ao usuário
+<p>Escreva um programa em <b>PHP</b> que solicite ao usuário
 um nome, armazene em uma variável e depois mostre o
 nome digitado em uma mensagem.</p><hr>
 

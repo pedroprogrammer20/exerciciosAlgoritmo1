@@ -27,27 +27,35 @@
  -->
 
 <form action="processaForms.php?dir=processa&file=resp01Slide04" method="POST" name="formulario"> 
-    <label for="nome">Nome: </label>
-    <input type="text" name="nome" id="nome" />
+    <span>
+        <label for="nome">Nome: </label>
+        <input type="text" name="nome" id="nome" />
+    </span>
 
-    <p>Disciplinas em que está matriculado: </p>
+    <span>
+        <p>Disciplinas em que está matriculado: </p>
+        <label for="">Algoritmos 1</label>
+        <input type="checkbox" name="disciplina" value="Algoritmos 1" /><br>
+    </span>
 
-    <label for="">Algoritmos 1</label>
-    <input type="checkbox" name="alg1" value="Alg1" /><br>
+    <span>
+        <label for="">Algoritmos 2</label>
+        <input type="checkbox" name="disciplina" value="Algoritmos 2" /><br>
+    </span>
 
-    <label for="">Algoritmos 2</label>
-    <input type="checkbox" name="alg2" value="Alg2" /><br>
+    <span>
+        <label for="">Programação web</label>
+        <input type="checkbox" name="disciplina" value="Programação Web" />
+    </span>    
 
-    <label for="">Programação web</label>
-    <input type="checkbox" name="progWeb" value="ProgWeb" />
+    <span>
+        <p>Sexo: </p>
+        <label for="masculino">Masculino</label>
+        <input type="radio" name="sexo" value="Masculino" /><br>
 
-    <p>Sexo: </p>
-
-    <label for="masculino">Masculino</label>
-    <input type="radio" name="masculino" value="H" /><br>
-
-    <label for="feminino">Feminino</label>
-    <input type="radio" name="feminino" value="F" /><br>
+        <label for="feminino">Feminino</label>
+        <input type="radio" name="sexo" value="Feminino" /><br>
+    </span>
 
     <input type="submit" name="botão" value="enviar" />
 </form>

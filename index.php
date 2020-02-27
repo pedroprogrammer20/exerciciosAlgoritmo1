@@ -25,6 +25,7 @@
 						<div class="modulo verde">
 							<h3>Básico PHP</h3>
 							<ul>
+								<li><a href="processaExec.php?dir=basico&file=teste">teste</a></li>
 								<li><a href="processaExec.php?dir=basico&file=testeTagPhp">Info PHP</a></li>
 								<li><a href="processaExec.php?dir=basico&file=testeHtml">Integração HTML</a></li>
 								<li><a href="processaExec.php?dir=basico&file=testeCss">Integração CSS</a></li>
@@ -41,6 +42,7 @@
 								<li><a href="processaExec.php?dir=slide02&file=exercicio03">Exercício 03</a></li>
 								<li><a href="processaExec.php?dir=slide02&file=exercicio04">Exercício 04</a></li>
 								<li><a href="processaExec.php?dir=slide02&file=exercicio05">Exercício 05</a></li>
+								<li><a href="processaExec.php?dir=slide02&file=exercicio06">Exercício 06</a></li>
 							</ul>
 						</div>
 
@@ -52,6 +54,7 @@
 								<li><a href="processaExec.php?dir=slide03&file=exercicio03">Exercício 03</a></li>
 								<li><a href="processaExec.php?dir=slide03&file=exercicio04">Exercício 04</a></li>
 								<li><a href="processaExec.php?dir=slide03&file=exercicio05">Exercício 05</a></li>
+								<li><a href="processaExec.php?dir=slide03&file=exercicio06">Exercício 06</a></li>
 							</ul>
 						</div>
 
@@ -63,6 +66,7 @@
 								<li><a href="processaExec.php?dir=slide04&file=exercicio03">Exercício 03</a></li>
 								<li><a href="processaExec.php?dir=slide04&file=exercicio04">Exercício 04</a></li>
 								<li><a href="processaExec.php?dir=slide04&file=exercicio05">Exercício 05</a></li>
+								<li><a href="processaExec.php?dir=slide04&file=exercicio06">Exercício 06</a></li>
 							</ul>
 						</div>
 
@@ -74,6 +78,7 @@
 								<li><a href="processaExec.php?dir=slide05&file=exercicio03">Exercício 03</a></li>
 								<li><a href="processaExec.php?dir=slide05&file=exercicio04">Exercício 04</a></li>
 								<li><a href="processaExec.php?dir=slide05&file=exercicio05">Exercício 05</a></li>
+								<li><a href="processaExec.php?dir=slide05&file=exercicio06">Exercício 06</a></li>
 							</ul>
 						</div>
 
@@ -85,64 +90,81 @@
 								<li><a href="processaExec.php?dir=slide06&file=exercicio03">Exercício 03</a></li>
 								<li><a href="processaExec.php?dir=slide06&file=exercicio04">Exercício 04</a></li>
 								<li><a href="processaExec.php?dir=slide06&file=exercicio05">Exercício 05</a></li>
+								<li><a href="processaExec.php?dir=slide06&file=exercicio06">Exercício 06</a></li>
 							</ul>
 						</div>
 
 						<div class="modulo verde-escuro">
 							<h3>Aula 06</h3>
 							<ul>
-								<li><a href="#">Exercicio 01</a></li>
-								<li><a href="#">Exercicio 02</a></li>
-								<li><a href="#">Exercicio 03</a></li>
+								<li><a href="processaExec.php?dir=slide07&file=exercicio01">Exercicio 01</a></li>
+								<li><a href="processaExec.php?dir=slide07&file=exercicio02">Exercicio 02</a></li>
+								<li><a href="processaExec.php?dir=slide07&file=exercicio03">Exercicio 03</a></li>
+								<li><a href="processaExec.php?dir=slide07&file=exercicio04">Exercicio 04</a></li>
+								<li><a href="processaExec.php?dir=slide07&file=exercicio05">Exercicio 05</a></li>
+								<li><a href="processaExec.php?dir=slide07&file=exercicio06">Exercicio 06</a></li>
 							</ul>
 						</div>
 
 						<div class="modulo vermelho-escuro">
 							<h3>Aula 07</h3>
 							<ul>
-								<li><a href="#">Exercicio 01</a></li>
-								<li><a href="#">Exercicio 02</a></li>
-								<li><a href="#">Exercicio 03</a></li>
+								<li><a href="processaExec.php?dir=slide08&file=exercicio01">Exercicio 01</a></li>
+								<li><a href="processaExec.php?dir=slide08&file=exercicio02">Exercicio 02</a></li>
+								<li><a href="processaExec.php?dir=slide08&file=exercicio03">Exercicio 03</a></li>
+								<li><a href="processaExec.php?dir=slide08&file=exercicio04">Exercicio 04</a></li>
+								<li><a href="processaExec.php?dir=slide08&file=exercicio05">Exercicio 05</a></li>
+								<li><a href="processaExec.php?dir=slide08&file=exercicio06">Exercicio 06</a></li>
 							</ul>
 						</div>
 
 						<div class="modulo azul-escuro">
 							<h3>Aula 08</h3>
 							<ul>
-								<li><a href="#">Exercicio 01</a></li>
-								<li><a href="#">Exercicio 02</a></li>
-								<li><a href="#">Exercicio 03</a></li>
+								<li><a href="processaExec.php?dir=slide09&file=exercicio01">Exercicio 01</a></li>
+								<li><a href="processaExec.php?dir=slide09&file=exercicio02">Exercicio 02</a></li>
+								<li><a href="processaExec.php?dir=slide09&file=exercicio03">Exercicio 03</a></li>
+								<li><a href="processaExec.php?dir=slide09&file=exercicio04">Exercicio 04</a></li>
+								<li><a href="processaExec.php?dir=slide09&file=exercicio05">Exercicio 05</a></li>
+								<li><a href="processaExec.php?dir=slide09&file=exercicio06">Exercicio 06</a></li>
 							</ul>
 						</div>
 
 						<div class="modulo roxo-escuro">
 							<h3>Aula 09</h3>
 							<ul>
-								<li><a href="#">Exercicio 01</a></li>
-								<li><a href="#">Exercicio 02</a></li>
-								<li><a href="#">Exercicio 03</a></li>
+								<li><a href="processaExec.php?dir=slide10&file=exercicio01">Exercicio 01</a></li>
+								<li><a href="processaExec.php?dir=slide10&file=exercicio02">Exercicio 02</a></li>
+								<li><a href="processaExec.php?dir=slide10&file=exercicio03">Exercicio 03</a></li>
+								<li><a href="processaExec.php?dir=slide10&file=exercicio04">Exercicio 04</a></li>
+								<li><a href="processaExec.php?dir=slide10&file=exercicio05">Exercicio 05</a></li>
+								<li><a href="processaExec.php?dir=slide10&file=exercicio06">Exercicio 06</a></li>
 							</ul>
 						</div>
 
 						<div class="modulo laranja-escuro">
 							<h3>Aula 10</h3>
 							<ul>
-								<li><a href="#">Exercicio 01</a></li>
-								<li><a href="#">Exercicio 02</a></li>
-								<li><a href="#">Exercicio 03</a></li>
+								<li><a href="processaExec.php?dir=slide11&file=exercicio01">Exercicio 01</a></li>
+								<li><a href="processaExec.php?dir=slide11&file=exercicio02">Exercicio 02</a></li>
+								<li><a href="processaExec.php?dir=slide11&file=exercicio03">Exercicio 03</a></li>
+								<li><a href="processaExec.php?dir=slide11&file=exercicio04">Exercicio 04</a></li>
+								<li><a href="processaExec.php?dir=slide11&file=exercicio05">Exercicio 05</a></li>
+								<li><a href="processaExec.php?dir=slide11&file=exercicio06">Exercicio 06</a></li>
 							</ul>
 						</div>
 
 						<div class="modulo rosa-escuro">
 							<h3>Aula 11</h3>
 							<ul>
-								<li><a href="#">Exercicio 01</a></li>
-								<li><a href="#">Exercicio 02</a></li>
-								<li><a href="#">Exercicio 03</a></li>
+								<li><a href="processaExec.php?dir=slide12&file=exercicio01">Exercicio 01</a></li>
+								<li><a href="processaExec.php?dir=slide12&file=exercicio02">Exercicio 02</a></li>
+								<li><a href="processaExec.php?dir=slide12&file=exercicio03">Exercicio 03</a></li>
+								<li><a href="processaExec.php?dir=slide12&file=exercicio04">Exercicio 04</a></li>
+								<li><a href="processaExec.php?dir=slide12&file=exercicio05">Exercicio 05</a></li>
+								<li><a href="processaExec.php?dir=slide12&file=exercicio06">Exercicio 06</a></li>
 							</ul>
 						</div>
-
-						
 					</nav>
 				</div>
 			</main>

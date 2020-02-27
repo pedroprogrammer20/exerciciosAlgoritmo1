@@ -1,6 +1,6 @@
-<div class="titulo">Exercício 03/div>
+<div class="titulo">Exercício 03</div>
 
-<p>Faça um programa em PHP que reproduza na mensagem a seguinte saída:</p>
+<p>Faça um programa em <b>PHP</b> que reproduza na mensagem a seguinte saída:</p>
 
 <!-- 
     UNISUL

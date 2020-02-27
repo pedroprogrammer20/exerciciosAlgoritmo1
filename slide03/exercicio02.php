@@ -1,6 +1,6 @@
 <div class="titulo">Exercício 02</div>
 
-<p>Faça um programa em PHP, declarando uma variável e atribuindo 
+<p>Faça um programa em <b>PHP</b>, declarando uma variável e atribuindo 
 um valor numérico qualquer a esta variável, depois mostre o valor
 desta variável em uma mensagem.</p><hr>
 
