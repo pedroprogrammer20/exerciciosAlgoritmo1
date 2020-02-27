@@ -19,19 +19,17 @@ que 10, apresentá-lo.</p><hr>
 </form>
 
 <?php
-        $int1 = $_POST['int1'];
-        $int2 = $_POST['int2'];
+    $int1 = $_POST['int1'];
+    $int2 = $_POST['int2'];
 
-        $calcInt = $int1 + $int2;
+    $calcInt = $int1 + $int2;
 
-        if(isset($int1)){
-            if($calcInt > 10 ) {
-                echo "Adição > 10 = " . $calcInt;
-            } else {
-                echo "Adição < 10 = " . $calcInt;
-            }
+    if(isset($int1)){
+        if($calcInt > 10 ) {
+            echo "Soma dos <b>inteiros</b> = " . $calcInt;
         }
-    ?>
+    }
+?>
 
 
 
