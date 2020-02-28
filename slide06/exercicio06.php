@@ -24,7 +24,7 @@ nome e a mensagem: <b>“NÃO ACEITA”</b>.</p><hr>
     $idade = $_POST['idade'];
 
     if (isset($nome)) {
-        if($idade > 15 && $idade < 25) {
+        if($idade >= 15 && $idade <= 25) {
             echo "Nome: " . $nome;
             echo "<br>";
             echo "Idade: " . $idade;

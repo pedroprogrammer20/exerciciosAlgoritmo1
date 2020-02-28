@@ -1,8 +1,9 @@
 <div class="titulo">Testes</div>
 
-<span>Teste span</span>
-<span>teste 2</span>
 
-<p>Teste p</p>
-<p>teste p 2</p>
+<?php
 
+    for ($i = 0; $i <= 10; $i++) {
+        echo "$i "  . "<br>";
+        
+    }

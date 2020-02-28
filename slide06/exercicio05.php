@@ -29,7 +29,7 @@ mostre a idade desta pessoa.</p><hr>
         if($anoNasci < $anoAtual) {
             echo "Ano de nascimento valido! " . "Idade = " . $calcIdade . " anos.";
         } else {
-            echo "Ano de nascimento invalido! " . "Idade = " . $calcIdade . " anos";
+            echo "Ano de nascimento invalido!";
         }
     }
     

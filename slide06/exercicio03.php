@@ -23,12 +23,15 @@ indicando esta <b>informação</b>.</p><hr>
     $campo1 = $_POST['campo1'];
     $campo2 = $_POST['campo2'];
 
-    if ($campo1 > $campo2){
-        echo "Campo I maior = " . $campo1;
-    } else if ($campo2 > $campo1) {
-        echo "Campo II maior = " . $campo2;
-    } else if ($campo1 == $campo2) {
-        echo "Campo I e II são iguais!";
+    if (isset($campo1)) {
+        if ($campo1 > $campo2){
+            echo "Campo I maior = " . $campo1;
+        } else if ($campo2 > $campo1) {
+            echo "Campo II maior = " . $campo2;
+        } else if ($campo1 == $campo2) {
+            echo "Campo I e II são iguais!";
+        }
     }
+    
 ?>
 
