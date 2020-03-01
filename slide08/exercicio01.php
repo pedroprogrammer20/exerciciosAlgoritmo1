@@ -23,6 +23,6 @@ algoritmo usando</p><hr>
     $frase = $_POST['frase'];
     $numRepet = $_POST['numRepet'];
 
-    for($i = 1; $i <= $numRepet; $i++) {
+    for ($i = 1; $i <= $numRepet; $i++) {
         echo $frase . "<br>";
     }

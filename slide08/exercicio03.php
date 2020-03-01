@@ -5,9 +5,9 @@ pares entre 33 e 57 usando for.</p>
 
 <?php 
     $soma;
-    for($i = 33; $i <= 57; $i++) {
+    for ($i = 33; $i <= 57; $i++) {
         $soma += $i;
-        if(($i % 2 ) == 0) {
+        if (($i % 2 ) == 0) {
             echo $i . "<br>";
         }
     }

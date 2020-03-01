@@ -4,6 +4,6 @@
 1 até 10 usando for.</p>
 
 <?php
-    for($i = 1; $i <= 10; $i++) {
+    for ($i = 1; $i <= 10; $i++) {
         echo $i . "<br>";
     }

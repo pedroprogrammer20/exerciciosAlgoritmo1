@@ -4,11 +4,11 @@
 
 <?php
     $i = 13;
-    do{
+    do {
         $i++;
-        if(($i % 2) == 0){
-            echo "É par: ".$i. "<br>";
+        if (($i % 2) == 0) {
+            echo "É par: " . $i . "<br>";
         }
-    }while($i<23); 
+    } while($i<23); 
     
              
